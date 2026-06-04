@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "test-marketplace",
+  "description": "Marketplace de prova",
+  "owner": {
+    "name": "Adria Colomer"
+  },
+  "plugins": []
+}
